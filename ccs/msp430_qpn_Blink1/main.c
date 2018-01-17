@@ -1,6 +1,9 @@
 /*
  * main.c
  *
+ *  01/17/18
+ *  MSP430 Example project
+ *  Suvendu Kumar Dash
  *  This file contains the following:
  *
  *  Event queues for each AO
